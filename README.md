@@ -1,6 +1,6 @@
 - 👋 Hi,
-  <p>My real github profile : ercantopuz</p>
-  <br>
+  <p>Github : ercantopuz</p>
+
   <p>My google play account : https://play.google.com/store/apps/dev?id=8073261619025864172</p>
   
 

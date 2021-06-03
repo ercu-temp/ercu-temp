@@ -1,7 +1,7 @@
 
   <b>şşş</b>
   <p align="center">
-  <img src="./sss.gif" width="" alt="accessibility text">
+  <img src="./sss.gif" width="1100dp" alt="accessibility text">
 </p>
 
   <p align="center">https://play.google.com/store/apps/dev?id=8073261619025864172</p>

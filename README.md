@@ -4,6 +4,5 @@
   <img src="./c.gif" width="1100dp" alt="accessibility text">
 </p>
 
-  [<img src="./w.png" width="25dp"  alt="accessibility text">](https://sites.google.com/view/ercantopuz/)
-  <br>
-  [<img src="./p.png" width="50dp"  alt="accessibility text">](https://play.google.com/store/apps/dev?id=8073261619025864172)
+  [<p align="center"> <img src="./w.png" width="50dp" alt="accessibility text"> </p>](https://sites.google.com/view/ercantopuz/)
+  [<p align="center"> <img src="./p.jpg" width="120dp" alt="accessibility text"> </p>](https://play.google.com/store/apps/dev?id=8073261619025864172)
